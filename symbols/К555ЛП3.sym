@@ -46,7 +46,7 @@ value=К555ЛП3
 T 0 3300 8 10 0 0 0 0 1
 device=LOGIC_GATE
 T 0 3100 8 10 0 0 0 0 1
-description=?
+description=3 мажоритарных клапана
 T 0 2900 8 10 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
 T 0 2700 8 10 0 0 0 0 1

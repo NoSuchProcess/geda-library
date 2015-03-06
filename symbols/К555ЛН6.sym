@@ -32,7 +32,7 @@ value=К555ЛН6
 T 0 4100 8 10 0 0 0 0 1
 device=LOGIC_GATE
 T 0 3900 8 10 0 0 0 0 1
-description=?
+description=6НЕ (Z)
 T 0 3700 8 10 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
 T 0 3500 8 10 0 0 0 0 1

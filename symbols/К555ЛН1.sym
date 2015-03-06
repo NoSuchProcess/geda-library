@@ -35,7 +35,7 @@ value=К555ЛН1
 T 0 3500 8 10 0 0 0 0 1
 device=LOGIC_GATE
 T 0 3300 8 10 0 0 0 0 1
-description=?
+description=6НЕ
 T 0 3100 8 10 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
 T 0 2900 8 10 0 0 0 0 1
