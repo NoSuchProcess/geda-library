@@ -24,7 +24,7 @@ P 0 2600 200 2600 1 0 0
 T 0 2600 5 10 0 0 0 0 1
 pintype=in
 T 255 2595 5 10 1 1 0 1 1
-pinlabel=\_EO\_
+pinlabel=EO
 T 105 2645 5 10 1 1 0 6 1
 pinnumber=2
 T 0 2600 5 10 0 0 0 0 1
@@ -48,7 +48,7 @@ P 0 2000 200 2000 1 0 0
 T 0 2000 5 10 0 0 0 0 1
 pintype=in
 T 255 1995 5 10 1 1 0 1 1
-pinlabel=\_EL\_
+pinlabel=EL
 T 105 2045 5 10 1 1 0 6 1
 pinnumber=10
 T 0 2000 5 10 0 0 0 0 1
