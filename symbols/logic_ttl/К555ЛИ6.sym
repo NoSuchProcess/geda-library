@@ -26,7 +26,7 @@ P 800 700 600 700 1 0 0
 T 700 750 5 10 0 0 0 6 1
 pintype=out
 T 545 695 9 10 0 1 0 6 1
-pinlabel=\_Y\_
+pinlabel=Y
 T 695 745 5 10 1 1 0 0 1
 pinnumber=6
 T 700 750 5 10 0 0 0 6 1
