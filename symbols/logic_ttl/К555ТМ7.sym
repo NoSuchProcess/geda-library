@@ -93,7 +93,7 @@ pintype=out
 T 1800 800 5 10 0 0 0 0 1
 pinseq=5
 T 1545 795 5 10 0 1 0 7 1
-pinlabel=\_1\_
+pinlabel=1
 T 1695 845 5 10 1 1 0 0 1
 pinnumber=1
 }
@@ -104,7 +104,7 @@ pintype=out
 T 1800 400 5 10 0 0 0 0 1
 pinseq=7
 T 1545 395 5 10 0 1 0 7 1
-pinlabel=\_2\_
+pinlabel=2
 T 1695 445 5 10 1 1 0 0 1
 pinnumber=14
 }
