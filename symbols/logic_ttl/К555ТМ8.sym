@@ -67,7 +67,7 @@ pintype=in
 T 0 400 5 10 0 0 0 0 1
 pinseq=6
 T 255 395 5 10 1 1 0 1 1
-pinlabel=\_R\_
+pinlabel=R
 T 105 445 5 10 1 1 0 6 1
 pinnumber=1
 }
@@ -89,7 +89,7 @@ pintype=out
 T 1800 800 5 10 0 0 0 0 1
 pinseq=12
 T 1545 795 5 10 0 1 0 7 1
-pinlabel=\_3\_
+pinlabel=3
 T 1695 845 5 10 1 1 0 0 1
 pinnumber=11
 }
@@ -100,7 +100,7 @@ pintype=out
 T 1800 400 5 10 0 0 0 0 1
 pinseq=14
 T 1545 395 5 10 0 1 0 7 1
-pinlabel=\_4\_
+pinlabel=4
 T 1695 445 5 10 1 1 0 0 1
 pinnumber=14
 }
@@ -168,7 +168,7 @@ pintype=out
 T 1800 1600 5 10 0 0 0 0 1
 pinseq=8
 T 1545 1595 5 10 0 1 0 7 1
-pinlabel=\_1\_
+pinlabel=1
 T 1695 1645 5 10 1 1 0 0 1
 pinnumber=3
 }
@@ -179,7 +179,7 @@ pintype=out
 T 1800 1200 5 10 0 0 0 0 1
 pinseq=10
 T 1545 1195 5 10 0 1 0 7 1
-pinlabel=\_2\_
+pinlabel=2
 T 1695 1245 5 10 1 1 0 0 1
 pinnumber=6
 }
