@@ -15,7 +15,7 @@ P 0 400 200 400 1 0 0
 T 100 450 5 10 0 0 0 0 1
 pintype=in
 T 255 395 9 10 1 1 0 1 1
-pinlabel=\_E\_
+pinlabel=E
 T 105 445 5 10 1 1 0 6 1
 pinnumber=1
 T 100 450 5 10 0 0 0 0 1
@@ -26,7 +26,7 @@ P 1000 600 800 600 1 0 0
 T 900 650 5 10 0 0 0 6 1
 pintype=out
 T 745 595 9 10 0 1 0 6 1
-pinlabel=\_Y\_
+pinlabel=Y
 T 895 645 5 10 1 1 0 0 1
 pinnumber=3
 T 900 650 5 10 0 0 0 6 1
