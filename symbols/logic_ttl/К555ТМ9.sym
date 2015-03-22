@@ -56,7 +56,7 @@ pintype=in
 T 0 400 5 10 0 0 0 0 1
 pinseq=8
 T 255 395 5 10 1 1 0 1 1
-pinlabel=\_R\_
+pinlabel=R
 T 105 445 5 10 1 1 0 6 1
 pinnumber=1
 }
