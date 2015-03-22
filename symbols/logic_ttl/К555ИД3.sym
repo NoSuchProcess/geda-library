@@ -248,7 +248,7 @@ P 0 400 200 400 1 0 0
 T 0 400 5 10 0 0 0 0 1
 pintype=in
 T 255 395 5 10 1 1 0 1 1
-pinlabel=\_S\_
+pinlabel=S
 T 105 445 5 10 1 1 0 6 1
 pinnumber=19
 T 0 400 5 10 0 0 0 0 1
