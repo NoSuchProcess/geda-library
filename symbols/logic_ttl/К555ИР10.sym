@@ -56,7 +56,7 @@ pintype=in
 T 0 1000 5 10 0 0 0 0 1
 pinseq=11
 T 255 995 5 10 1 1 0 1 1
-pinlabel=\_R\_
+pinlabel=R
 T 105 1045 5 10 1 1 0 6 1
 pinnumber=19
 }
@@ -182,7 +182,7 @@ pintype=in
 T 0 1200 5 10 0 0 0 0 1
 pinseq=10
 T 255 1195 5 10 1 1 0 1 1
-pinlabel=\_EL\_
+pinlabel=EL
 T 105 1245 5 10 1 1 0 6 1
 pinnumber=15
 }
