@@ -1,0 +1,31 @@
+Element["" "SBX18" "" "" 0.0000mm 0.0000mm 0.0000mm 0.0000mm 0 100 ""]
+(
+	Pin[-5.0800mm 24.1300mm 0.80mm 1.00mm 0.80mm 0.80mm "" "1" "hole"]
+	Pin[-2.5400mm 24.1300mm 0.80mm 1.00mm 0.80mm 0.80mm "" "2" "hole"]
+	Pin[0.0000mm 24.1300mm 0.80mm 1.00mm 0.80mm 0.80mm "" "3" "hole"]
+	Pin[2.5400mm 24.1300mm 0.80mm 1.00mm 0.80mm 0.80mm "" "4" "hole"]
+	Pin[5.0800mm 24.1300mm 0.80mm 1.00mm 0.80mm 0.80mm "" "5" "hole"]
+	Pin[5.0800mm -24.1300mm 0.80mm 1.00mm 0.80mm 0.80mm "" "6" "hole"]
+	Pin[2.5400mm -24.1300mm 0.80mm 1.00mm 0.80mm 0.80mm "" "7" "hole"]
+	Pin[0.0000mm -24.1300mm 0.80mm 1.00mm 0.80mm 0.80mm "" "8" "hole"]
+	Pin[-2.5400mm -24.1300mm 0.80mm 1.00mm 0.80mm 0.80mm "" "9" "hole"]
+	Pin[-5.0800mm -24.1300mm 0.80mm 1.00mm 0.80mm 0.80mm "" "10" "hole"]
+	Pad[-5.0800mm 24.7300mm -5.0800mm 23.5300mm 1.30mm 1.00mm 2.30mm "" "1" "square"]
+	Pad[-2.5400mm 24.7300mm -2.5400mm 23.5300mm 1.30mm 1.00mm 2.30mm "" "2" ""]
+	Pad[0.0000mm 24.7300mm 0.0000mm 23.5300mm 1.30mm 1.00mm 2.30mm "" "3" ""]
+	Pad[2.5400mm 24.7300mm 2.5400mm 23.5300mm 1.30mm 1.00mm 2.30mm "" "4" ""]
+	Pad[5.0800mm 24.7300mm 5.0800mm 23.5300mm 1.30mm 1.00mm 2.30mm "" "5" ""]
+	Pad[5.0800mm -24.7300mm 5.0800mm -23.5300mm 1.30mm 1.00mm 2.30mm "" "6" ""]
+	Pad[2.5400mm -24.7300mm 2.5400mm -23.5300mm 1.30mm 1.00mm 2.30mm "" "7" ""]
+	Pad[0.0000mm -24.7300mm 0.0000mm -23.5300mm 1.30mm 1.00mm 2.30mm "" "8" ""]
+	Pad[-2.5400mm -24.7300mm -2.5400mm -23.5300mm 1.30mm 1.00mm 2.30mm "" "9" ""]
+	Pad[-5.0800mm -24.7300mm -5.0800mm -23.5300mm 1.30mm 1.00mm 2.30mm "" "10" ""]
+	ElementLine[-19.0000mm 28.0000mm 19.0000mm 28.0000mm 0.50mm]
+	ElementLine[19.0000mm 28.0000mm 19.0000mm -28.0000mm 0.50mm]
+	ElementLine[19.0000mm -28.0000mm -19.0000mm -28.0000mm 0.50mm]
+	ElementArc[-19.0000mm -0.0000mm 1.00mm 1.00mm 90 180 0.50mm]
+	ElementLine[-19.0000mm -28.0000mm -19.0000mm 28.0000mm 0.50mm]
+	Attribute("author" "Sergey Stepanov <no.such.process@gmail.com>")
+	Attribute("use-license" "personal use only")
+	Attribute("dist-license" "CC BY-NC-SA 4.0")
+)

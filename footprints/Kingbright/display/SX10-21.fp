@@ -1,0 +1,31 @@
+Element["" "SX10-21" "" "" 0.0000mm 0.0000mm 0.0000mm 0.0000mm 0 100 ""]
+(
+	Pin[-5.0800mm 15.2000mm 0.80mm 1.00mm 0.80mm 0.80mm "" "1" "hole"]
+	Pin[-2.5400mm 15.2000mm 0.80mm 1.00mm 0.80mm 0.80mm "" "2" "hole"]
+	Pin[0.0000mm 15.2000mm 0.80mm 1.00mm 0.80mm 0.80mm "" "3" "hole"]
+	Pin[2.5400mm 15.2000mm 0.80mm 1.00mm 0.80mm 0.80mm "" "4" "hole"]
+	Pin[5.0800mm 15.2000mm 0.80mm 1.00mm 0.80mm 0.80mm "" "5" "hole"]
+	Pin[5.0800mm -15.2000mm 0.80mm 1.00mm 0.80mm 0.80mm "" "6" "hole"]
+	Pin[2.5400mm -15.2000mm 0.80mm 1.00mm 0.80mm 0.80mm "" "7" "hole"]
+	Pin[0.0000mm -15.2000mm 0.80mm 1.00mm 0.80mm 0.80mm "" "8" "hole"]
+	Pin[-2.5400mm -15.2000mm 0.80mm 1.00mm 0.80mm 0.80mm "" "9" "hole"]
+	Pin[-5.0800mm -15.2000mm 0.80mm 1.00mm 0.80mm 0.80mm "" "10" "hole"]
+	Pad[-5.0800mm 15.8000mm -5.0800mm 14.6000mm 1.30mm 1.00mm 2.30mm "" "1" "square"]
+	Pad[-2.5400mm 15.8000mm -2.5400mm 14.6000mm 1.30mm 1.00mm 2.30mm "" "2" ""]
+	Pad[0.0000mm 15.8000mm 0.0000mm 14.6000mm 1.30mm 1.00mm 2.30mm "" "3" ""]
+	Pad[2.5400mm 15.8000mm 2.5400mm 14.6000mm 1.30mm 1.00mm 2.30mm "" "4" ""]
+	Pad[5.0800mm 15.8000mm 5.0800mm 14.6000mm 1.30mm 1.00mm 2.30mm "" "5" ""]
+	Pad[5.0800mm -15.8000mm 5.0800mm -14.6000mm 1.30mm 1.00mm 2.30mm "" "6" ""]
+	Pad[2.5400mm -15.8000mm 2.5400mm -14.6000mm 1.30mm 1.00mm 2.30mm "" "7" ""]
+	Pad[0.0000mm -15.8000mm 0.0000mm -14.6000mm 1.30mm 1.00mm 2.30mm "" "8" ""]
+	Pad[-2.5400mm -15.8000mm -2.5400mm -14.6000mm 1.30mm 1.00mm 2.30mm "" "9" ""]
+	Pad[-5.0800mm -15.8000mm -5.0800mm -14.6000mm 1.30mm 1.00mm 2.30mm "" "10" ""]
+	ElementLine[-12.0000mm 17.0000mm 12.0000mm 17.0000mm 0.50mm]
+	ElementLine[12.0000mm 17.0000mm 12.0000mm -17.0000mm 0.50mm]
+	ElementLine[12.0000mm -17.0000mm -12.0000mm -17.0000mm 0.50mm]
+	ElementArc[-12.0000mm -0.0000mm 1.00mm 1.00mm 90 180 0.50mm]
+	ElementLine[-12.0000mm -17.0000mm -12.0000mm 17.0000mm 0.50mm]
+	Attribute("author" "Sergey Stepanov <no.such.process@gmail.com>")
+	Attribute("use-license" "personal use only")
+	Attribute("dist-license" "CC BY-NC-SA 4.0")
+)
