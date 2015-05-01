@@ -1,0 +1,15 @@
+Element["" "KCSX02" "" "" 0.00mm 0.00mm 0.00 0.00 0 100 ""]
+(
+  Pad[0.00mm 0.95mm 0.00mm -0.95mm 0.90mm 0.40mm 1.30mm "" "1" "square"]
+  Pad[1.44mm 0.95mm 1.44mm -0.95mm 0.90mm 0.40mm 1.30mm "" "2" "square"]
+  Pad[2.88mm 0.95mm 2.88mm -0.95mm 0.90mm 0.40mm 1.30mm "" "3" "square"]
+  Pad[4.32mm 0.95mm 4.32mm -0.95mm 0.90mm 0.40mm 1.30mm "" "4" "square"]
+  Pad[5.76mm 0.95mm 5.76mm -0.95mm 0.90mm 0.40mm 1.30mm "" "5" "square"]
+  Pad[5.76mm -10.95mm 5.76mm -9.05mm 0.90mm 0.40mm 1.30mm "" "6" "square"]
+  Pad[4.32mm -10.95mm 4.32mm -9.05mm 0.90mm 0.40mm 1.30mm "" "7" "square"]
+  Pad[2.88mm -10.95mm 2.88mm -9.05mm 0.90mm 0.40mm 1.30mm "" "8" "square"]
+  Pad[1.44mm -10.95mm 1.44mm -9.05mm 0.90mm 0.40mm 1.30mm "" "9" "square"]
+  Pad[0.00mm -10.95mm 0.00mm -9.05mm 0.90mm 0.40mm 1.30mm "" "10" "square"]
+  ElementLine [-0.57mm -1.75mm -0.57mm -8.25mm 0.20mm]
+  ElementLine [6.33mm -1.75mm 6.33mm -8.25mm 0.20mm]
+)
