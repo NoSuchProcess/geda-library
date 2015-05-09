@@ -1,0 +1,16 @@
+Element["" "2145.4" "" "" 0.00mm 0.00mm 0.81mm -4.77mm 0 100 ""]
+(
+  Pin[0.00mm 0.00mm 0.80mm 1.00mm 0.80mm 0.80mm "" "1" "hole"]
+  Pin[0.00mm 2.54mm 0.80mm 1.00mm 0.80mm 0.80mm "" "2" "hole"]
+  Pin[7.62mm 2.54mm 0.80mm 1.00mm 0.80mm 0.80mm "" "3" "hole"]
+  Pin[7.62mm 0.00mm 0.80mm 1.00mm 0.80mm 0.80mm "" "4" "hole"]
+  Pad[-0.60mm 0.00mm 0.60mm 0.00mm 1.30mm 1.00mm 1.50mm "" "1" "onsolder,square"]
+  Pad[-0.60mm 2.54mm 0.60mm 2.54mm 1.30mm 1.00mm 1.50mm "" "2" "onsolder"]
+  Pad[8.22mm 2.54mm 7.02mm 2.54mm 1.30mm 1.00mm 1.50mm "" "3" "onsolder"]
+  Pad[8.22mm 0.00mm 7.02mm 0.00mm 1.30mm 1.00mm 1.50mm "" "4" "onsolder"]
+  ElementLine[0.81mm -2.23mm 6.81mm -2.23mm 0.20mm]
+  ElementLine[0.81mm -2.23mm 0.81mm 4.77mm 0.20mm]
+  ElementLine[6.81mm -2.23mm 6.81mm 4.77mm 0.20mm]
+  ElementLine[0.81mm 4.77mm 6.81mm 4.77mm 0.20mm]
+  ElementArc[3.81mm -2.23mm 1.00mm 1.00mm 0 180 0.20mm]
+)
