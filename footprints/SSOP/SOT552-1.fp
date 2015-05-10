@@ -1,0 +1,18 @@
+Element["" "TSSOP10" "" "" 0.00mm 0.00mm 0.00mm -3.12mm 0 100 ""]
+(
+  Pad[-0.4250mm 0.0000mm 0.4250mm 0.0000mm 0.2500mm 0.4000mm 0.4500mm "" "1" "square"]
+  Pad[-0.4250mm 0.5000mm 0.4250mm 0.5000mm 0.2500mm 0.4000mm 0.4500mm "" "2" "square"]
+  Pad[-0.4250mm 1.0000mm 0.4250mm 1.0000mm 0.2500mm 0.4000mm 0.4500mm "" "3" "square"]
+  Pad[-0.4250mm 1.5000mm 0.4250mm 1.5000mm 0.2500mm 0.4000mm 0.4500mm "" "4" "square"]
+  Pad[-0.4250mm 2.0000mm 0.4250mm 2.0000mm 0.2500mm 0.4000mm 0.4500mm "" "5" "square"]
+  Pad[4.7250mm 2.0000mm 3.8750mm 2.0000mm 0.2500mm 0.4000mm 0.4500mm "" "6" "square"]
+  Pad[4.7250mm 1.5000mm 3.8750mm 1.5000mm 0.2500mm 0.4000mm 0.4500mm "" "7" "square"]
+  Pad[4.7250mm 1.0000mm 3.8750mm 1.0000mm 0.2500mm 0.4000mm 0.4500mm "" "8" "square"]
+  Pad[4.7250mm 0.5000mm 3.8750mm 0.5000mm 0.2500mm 0.4000mm 0.4500mm "" "9" "square"]
+  Pad[4.7250mm 0.0000mm 3.8750mm 0.0000mm 0.2500mm 0.4000mm 0.4500mm "" "10" "square"]
+  ElementLine[-0.8500mm -0.5750mm 5.1500mm -0.5750mm 0.20mm]
+  ElementLine[-0.8500mm -0.5750mm -0.8500mm 2.5750mm 0.20mm]
+  ElementLine[5.1500mm -0.5750mm 5.1500mm 2.5750mm 0.20mm]
+  ElementLine[-0.8500mm 2.5750mm 5.1500mm 2.5750mm 0.20mm]
+  ElementArc[2.15mm -0.57mm 1.00mm 1.00mm 0 180 0.20mm]
+)
