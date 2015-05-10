@@ -1,0 +1,16 @@
+Element["" "TSSOP8" "" "" 0.00mm 0.00mm 0.00mm -3.14mm 0 100 ""]
+(
+  Pad[-0.3500mm 0.0000mm 0.3500mm 0.0000mm 0.4000mm 0.4000mm 0.6000mm "" "1" "square"]
+  Pad[-0.3500mm 0.6500mm 0.3500mm 0.6500mm 0.4000mm 0.4000mm 0.6000mm "" "2" "square"]
+  Pad[-0.3500mm 1.3000mm 0.3500mm 1.3000mm 0.4000mm 0.4000mm 0.6000mm "" "3" "square"]
+  Pad[-0.3500mm 1.9500mm 0.3500mm 1.9500mm 0.4000mm 0.4000mm 0.6000mm "" "4" "square"]
+  Pad[4.6500mm 1.9500mm 3.9500mm 1.9500mm 0.4000mm 0.4000mm 0.6000mm "" "5" "square"]
+  Pad[4.6500mm 1.3000mm 3.9500mm 1.3000mm 0.4000mm 0.4000mm 0.6000mm "" "6" "square"]
+  Pad[4.6500mm 0.6500mm 3.9500mm 0.6500mm 0.4000mm 0.4000mm 0.6000mm "" "7" "square"]
+  Pad[4.6500mm 0.0000mm 3.9500mm 0.0000mm 0.4000mm 0.4000mm 0.6000mm "" "8" "square"]
+  ElementLine[-0.8500mm -0.6000mm 5.1500mm -0.6000mm 0.20mm]
+  ElementLine[-0.8500mm -0.6000mm -0.8500mm 2.5500mm 0.20mm]
+  ElementLine[5.1500mm -0.6000mm 5.1500mm 2.5500mm 0.20mm]
+  ElementLine[-0.8500mm 2.5500mm 5.1500mm 2.5500mm 0.20mm]
+  ElementArc[2.15mm -0.60mm 1.00mm 1.00mm 0 180 0.20mm]
+)
