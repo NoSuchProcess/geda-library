@@ -1,0 +1,16 @@
+Element["" "SO8" "" "" 0.00mm 0.00mm 0.00mm -4.83mm 0 100 ""]
+(
+  Pad[-0.4500mm 0.0000mm 0.4500mm 0.0000mm 0.6000mm 0.4000mm 0.8000mm "" "1" "square"]
+  Pad[-0.4500mm 1.2700mm 0.4500mm 1.2700mm 0.6000mm 0.4000mm 0.8000mm "" "2" "square"]
+  Pad[-0.4500mm 2.5400mm 0.4500mm 2.5400mm 0.6000mm 0.4000mm 0.8000mm "" "3" "square"]
+  Pad[-0.4500mm 3.8100mm 0.4500mm 3.8100mm 0.6000mm 0.4000mm 0.8000mm "" "4" "square"]
+  Pad[9.9500mm 3.8100mm 9.0500mm 3.8100mm 0.6000mm 0.4000mm 0.8000mm "" "5" "square"]
+  Pad[9.9500mm 2.5400mm 9.0500mm 2.5400mm 0.6000mm 0.4000mm 0.8000mm "" "6" "square"]
+  Pad[9.9500mm 1.2700mm 9.0500mm 1.2700mm 0.6000mm 0.4000mm 0.8000mm "" "7" "square"]
+  Pad[9.9500mm 0.0000mm 9.0500mm 0.0000mm 0.6000mm 0.4000mm 0.8000mm "" "8" "square"]
+  ElementLine[-0.9500mm -2.2950mm 10.4500mm -2.2950mm 0.20mm]
+  ElementLine[-0.9500mm -2.2950mm -0.9500mm 6.1050mm 0.20mm]
+  ElementLine[10.4500mm -2.2950mm 10.4500mm 6.1050mm 0.20mm]
+  ElementLine[-0.9500mm 6.1050mm 10.4500mm 6.1050mm 0.20mm]
+  ElementArc[4.75mm -2.29mm 1.00mm 1.00mm 0 180 0.20mm]
+)
