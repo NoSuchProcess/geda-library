@@ -1,0 +1,47 @@
+v 20140308 2
+L 40 240 420 620 3 0 1 0 -1 -1
+L 40 430 360 430 3 0 1 0 -1 -1
+L 40 370 360 370 3 0 1 0 -1 -1
+H 3 0 1 0 -1 -1 1 -1 -1 -1 -1 -1 4
+M 358,513
+C 356,535 335,556 313,558
+L 420,620
+z
+P 200 600 200 430 1 0 0
+{
+T 200 430 5 8 0 0 0 0 1
+pintype=pas
+T 275 430 9 8 0 1 0 1 1
+pinlabel=1
+T 150 475 5 8 0 1 0 6 1
+pinnumber=1
+T 200 430 5 8 0 0 0 2 1
+pinseq=1
+}
+P 200 200 200 370 1 0 0
+{
+T 200 370 5 8 0 0 0 0 1
+pintype=pas
+T 275 370 9 8 0 1 0 1 1
+pinlabel=2
+T 150 415 5 8 0 1 0 6 1
+pinnumber=2
+T 200 370 5 8 0 0 0 2 1
+pinseq=2
+}
+T 250 800 8 8 1 1 0 3 1
+refdes=C?
+T 250 0 8 8 1 1 0 3 1
+value=50-470 uF
+T 0 2400 8 8 0 0 0 0 1
+device=CAPACITOR
+T 0 2200 8 8 0 0 0 0 1
+description=конденсатор переменной ёмкости
+T 0 2000 8 8 0 0 0 0 1
+author=Sergey Stepanov <no.such.process@gmail.com>
+T 0 1800 8 8 0 0 0 0 1
+dist-license=CC BY-NC-SA 4.0
+T 0 1600 8 8 0 0 0 0 1
+use-license=personal use only
+T 0 1400 8 8 0 0 0 0 1
+footprint=KPE.fp
