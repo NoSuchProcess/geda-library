@@ -1,0 +1,59 @@
+v 20140308 2
+L 220 680 220 320 3 0 1 0 -1 -1
+L 220 596 400 700 3 0 1 0 -1 -1
+L 220 404 400 300 3 0 1 0 -1 -1
+V 280 500 240 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+H 3 0 1 0 -1 -1 1 -1 -1 -1 -1 -1 4
+M 280,332
+C 302,340 317,365 312,388
+L 400,300
+z
+P 0 500 220 500 1 0 0
+{
+T 220 500 5 8 0 0 0 0 1
+pintype=pas
+T 295 500 9 8 0 1 0 1 1
+pinlabel=B
+T 170 545 5 8 0 1 0 6 1
+pinnumber=B
+T 220 500 5 8 0 0 0 2 1
+pinseq=1
+}
+P 400 800 400 700 1 0 0
+{
+T 400 700 5 8 0 0 0 0 1
+pintype=pas
+T 475 700 9 8 0 1 0 1 1
+pinlabel=C
+T 350 745 5 8 0 1 0 6 1
+pinnumber=C
+T 400 700 5 8 0 0 0 2 1
+pinseq=2
+}
+P 400 200 400 300 1 0 0
+{
+T 400 300 5 8 0 0 0 0 1
+pintype=pas
+T 475 300 9 8 0 1 0 1 1
+pinlabel=E
+T 350 345 5 8 0 1 0 6 1
+pinnumber=E
+T 400 300 5 8 0 0 0 2 1
+pinseq=3
+}
+T 300 900 8 8 1 1 0 3 1
+refdes=VT?
+T 300 0 8 8 1 1 0 3 1
+value=КТ399
+T 0 2500 8 8 0 0 0 0 1
+device=TRANSISTOR
+T 0 2300 8 8 0 0 0 0 1
+description=n-p-n транзистор
+T 0 2100 8 8 0 0 0 0 1
+author=Sergey Stepanov <no.such.process@gmail.com>
+T 0 1900 8 8 0 0 0 0 1
+dist-license=CC BY-NC-SA 4.0
+T 0 1700 8 8 0 0 0 0 1
+use-license=personal use only
+T 0 1500 8 8 0 0 0 0 1
+footprint=KT-1.fp
