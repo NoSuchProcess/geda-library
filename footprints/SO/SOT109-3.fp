@@ -1,4 +1,4 @@
-Element["" "SOT109-1" "" "" 0.00mm 0.00mm 0.00mm 0.00mm 0 100 ""]
+Element["" "SOT109-3" "" "" 0.00mm 0.00mm 0.00mm 0.00mm 0 100 ""]
 (
     Pad[-0.3500mm 0.0000mm 0.3500mm 0.0000mm 0.60mm 0.40mm 1.00mm "" "1" "square"]
     Pad[-0.3500mm 1.2700mm 0.3500mm 1.2700mm 0.60mm 0.40mm 1.00mm "" "2" "square"]
