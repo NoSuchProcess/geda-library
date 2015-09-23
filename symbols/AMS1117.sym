@@ -1,0 +1,56 @@
+v 20140308 2
+L 200 600 600 600 3 10 1 0 -1 -1
+L 600 600 600 200 3 10 1 0 -1 -1
+L 600 200 200 200 3 10 1 0 -1 -1
+L 200 200 200 600 3 10 1 0 -1 -1
+P 0 400 200 400 1 0 0
+{
+T 200 400 5 8 0 0 0 0 1
+pintype=pwr
+T 275 400 9 8 0 1 0 1 1
+pinlabel=V_IN
+T 150 445 5 8 1 1 0 6 1
+pinnumber=3
+T 200 400 5 8 0 0 0 2 1
+pinseq=1
+}
+P 400 0 400 200 1 0 0
+{
+T 400 200 5 8 0 0 0 0 1
+pintype=pwr
+T 475 200 9 8 0 1 0 1 1
+pinlabel=ADJ
+T 550 45 5 8 1 1 0 6 1
+pinnumber=1
+T 400 200 5 8 0 0 0 2 1
+pinseq=2
+}
+P 800 400 600 400 1 0 0
+{
+T 600 400 5 8 0 0 0 6 1
+pintype=pwr
+T 525 400 9 8 0 1 0 7 1
+pinlabel=V_OUT
+T 650 445 5 8 1 1 0 0 1
+pinnumber=2
+T 600 400 5 8 0 0 0 8 1
+pinseq=3
+}
+T 350 800 8 10 1 1 0 7 1
+refdes=DA?
+T 450 800 8 10 1 1 0 1 1
+value=AMS1117
+T 0 2200 8 10 0 0 0 0 1
+device=AMS1117
+T 0 2000 8 10 0 0 0 0 1
+description=1A Adjustable/Fixed Low Dropout Linear Regulator
+T 0 1800 8 10 0 0 0 0 1
+documentation=http://www.ams-semitech.com/attachments/File/AMS1117_20120314.pdf
+T 0 1600 8 10 0 0 0 0 1
+author=Sergey Stepanov <no.such.process@gmail.com>
+T 0 1400 8 10 0 0 0 0 1
+dist-license=CC BY-NC-SA 4.0
+T 0 1200 8 10 0 0 0 0 1
+use-license=personal use only
+T 0 1000 8 10 0 0 0 0 1
+footprint=SOT-223.fp
