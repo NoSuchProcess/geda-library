@@ -1,0 +1,59 @@
+v 20150930 2
+L 220 480 220 120 3 10 1 0 -1 -1
+L 220 396 400 500 3 10 1 0 -1 -1
+L 220 204 400 100 3 10 1 0 -1 -1
+V 280 300 240 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+H 3 0 1 0 -1 -1 1 -1 -1 -1 -1 -1 4
+M 280,132
+C 302,140 317,165 312,188
+L 400,100
+z
+P 0 300 220 300 1 0 0
+{
+T 220 300 5 8 0 0 0 0 1
+pintype=pas
+T 295 300 9 8 0 1 0 1 1
+pinlabel=B
+T 170 345 5 8 0 1 0 6 1
+pinnumber=B
+T 220 300 5 8 0 0 0 2 1
+pinseq=1
+}
+P 400 500 400 500 1 0 0
+{
+T 400 500 5 8 0 0 0 0 1
+pintype=pas
+T 475 500 9 8 0 1 0 1 1
+pinlabel=C
+T 350 545 5 8 0 1 0 6 1
+pinnumber=C
+T 400 500 5 8 0 0 0 2 1
+pinseq=2
+}
+P 400 100 400 100 1 0 0
+{
+T 400 100 5 8 0 0 0 0 1
+pintype=pas
+T 475 100 9 8 0 1 0 1 1
+pinlabel=E
+T 350 145 5 8 0 1 0 6 1
+pinnumber=E
+T 400 100 5 8 0 0 0 2 1
+pinseq=3
+}
+T 900 400 8 10 1 1 0 4 1
+refdes=VT?
+T 900 200 8 10 1 1 0 4 1
+value=?
+T 0 1800 8 10 0 0 0 0 1
+device=TRANSISTOR
+T 0 1600 8 10 0 0 0 0 1
+description=?
+T 0 1400 8 10 0 0 0 0 1
+author=Sergey Stepanov <no.such.process@gmail.com>
+T 0 1200 8 10 0 0 0 0 1
+dist-license=CC BY-NC-SA 4.0
+T 0 1000 8 10 0 0 0 0 1
+use-license=personal use only
+T 0 800 8 10 0 0 0 0 1
+footprint=?
