@@ -1,14 +1,14 @@
 v 20140308 2
-L 400 1800 400 200 3 10 0 0 -1 -1
-L 800 1800 800 640 3 10 0 0 -1 -1
-L 200 1560 200 440 3 10 0 0 -1 -1
+L 400 200 400 1800 3 10 0 0 -1 -1
+L 800 640 800 1800 3 10 0 0 -1 -1
+L 200 440 200 1560 3 10 0 0 -1 -1
 L 200 200 800 200 3 10 0 0 -1 -1
 L 200 1800 800 1800 3 10 0 0 -1 -1
-L 800 560 800 200 3 10 0 0 -1 -1
+L 800 200 800 560 3 10 0 0 -1 -1
 L 200 600 400 600 3 10 0 0 -1 -1
 L 200 1400 400 1400 3 10 0 0 -1 -1
-L 200 1800 200 1640 3 10 0 0 -1 -1
-L 200 360 200 200 3 10 0 0 -1 -1
+L 200 1640 200 1800 3 10 0 0 -1 -1
+L 200 200 200 360 3 10 0 0 -1 -1
 L 150 1050 250 950 3 10 0 0 -1 -1
 T 600 1600 9 10 1 0 0 3 1
 TT
@@ -96,26 +96,24 @@ T 500 2000 8 10 1 1 0 4 1
 refdes=DD?
 T 500 0 8 10 1 1 0 4 1
 value=К555ТВ9
-T 0 4300 8 10 0 0 0 0 1
-device=LOGIC_GATE
 T 0 4100 8 10 0 0 0 0 1
-description=2 JK-триггера
+device=LOGIC_GATE
 T 0 3900 8 10 0 0 0 0 1
-author=Sergey Stepanov <no.such.process@gmail.com>
+description=2 JK-триггера
 T 0 3700 8 10 0 0 0 0 1
-dist-license=CC BY-NC-SA 4.0
+author=Sergey Stepanov <no.such.process@gmail.com>
 T 0 3500 8 10 0 0 0 0 1
-use-license=personal use only
+dist-license=CC BY-NC-SA 4.0
 T 0 3300 8 10 0 0 0 0 1
-footprint=DIP-16.fp
+use-license=personal use only
 T 0 3100 8 10 0 0 0 0 1
-numslots=2
+footprint=DIP-16.fp
 T 0 2900 8 10 0 0 0 0 1
-slotdef=1:4,3,1,2,15,5,6
+numslots=2
 T 0 2700 8 10 0 0 0 0 1
-slotdef=2:10,11,13,12,14,9,7
+slotdef=1:4,3,1,2,15,5,6
 T 0 2500 8 10 0 0 0 0 1
-slot=1
+slotdef=2:10,11,13,12,14,9,7
 T 0 2300 8 10 0 0 0 0 1
 net=GND:8
 T 0 2100 8 10 0 0 0 0 1
