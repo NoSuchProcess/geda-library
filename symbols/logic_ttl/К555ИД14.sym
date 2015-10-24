@@ -98,26 +98,24 @@ T 900 1400 8 10 1 1 0 4 1
 refdes=DD?
 T 900 0 8 10 1 1 0 4 1
 value=К555ИД14
-T 0 3700 8 10 0 0 0 0 1
-device=LOGIC_GATE
 T 0 3500 8 10 0 0 0 0 1
-description=2 дешифратора 2-4
+device=LOGIC_GATE
 T 0 3300 8 10 0 0 0 0 1
-author=Sergey Stepanov <no.such.process@gmail.com>
+description=2 дешифратора 2-4
 T 0 3100 8 10 0 0 0 0 1
-dist-license=CC BY-NC-SA 4.0
+author=Sergey Stepanov <no.such.process@gmail.com>
 T 0 2900 8 10 0 0 0 0 1
-use-license=personal use only
+dist-license=CC BY-NC-SA 4.0
 T 0 2700 8 10 0 0 0 0 1
-footprint=DIP-16.fp
+use-license=personal use only
 T 0 2500 8 10 0 0 0 0 1
-numslots=2
+footprint=DIP-16.fp
 T 0 2300 8 10 0 0 0 0 1
-slotdef=1:2,3,1,4,5,6,7
+numslots=2
 T 0 2100 8 10 0 0 0 0 1
-slotdef=2:14,13,15,12,11,10,9
+slotdef=1:2,3,1,4,5,6,7
 T 0 1900 8 10 0 0 0 0 1
-slot=1
+slotdef=2:14,13,15,12,11,10,9
 T 0 1700 8 10 0 0 0 0 1
 net=GND:8
 T 0 1500 8 10 0 0 0 0 1
