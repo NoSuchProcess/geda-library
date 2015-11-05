@@ -792,4 +792,4 @@ dist-license=CC BY-NC-SA 4.0
 T 0 9700 8 10 0 0 0 0 1
 use-license=personal use only
 T 0 9500 8 10 0 0 0 0 1
-footprint=QFJ-68.fp
+footprint=QFJ68.fp
