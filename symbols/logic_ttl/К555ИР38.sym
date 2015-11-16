@@ -153,7 +153,7 @@ dist-license=CC BY-NC-SA 4.0
 T 0 3700 8 10 0 0 0 0 1
 use-license=personal use only
 T 0 3500 8 10 0 0 0 0 1
-footprint=DIP-24.fp
+footprint=DIP24.fp
 T 0 3300 8 10 0 0 0 0 1
 numslots=2
 T 0 3100 8 10 0 0 0 0 1
