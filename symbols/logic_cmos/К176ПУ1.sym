@@ -44,7 +44,7 @@ dist-license=CC BY-NC-SA 4.0
 T 0 2700 8 10 0 0 0 0 1
 use-license=personal use only
 T 0 2500 8 10 0 0 0 0 1
-footprint=DIP-14.fp
+footprint=DIP14.fp
 T 0 2300 8 10 0 0 0 0 1
 numslots=5
 T 0 2100 8 10 0 0 0 0 1
