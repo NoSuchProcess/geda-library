@@ -174,7 +174,7 @@ dist-license=CC BY-NC-SA 4.0
 T 0 3900 8 10 0 0 0 0 1
 use-license=personal use only
 T 0 3700 8 10 0 0 0 0 1
-footprint=DIP-16.fp
+footprint=DIP16.fp
 T 0 3500 8 10 0 0 0 0 1
 net=GND:8
 T 0 3300 8 10 0 0 0 0 1
