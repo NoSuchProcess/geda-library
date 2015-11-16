@@ -300,7 +300,7 @@ dist-license=CC BY-NC-SA 4.0
 T 0 4900 8 10 0 0 0 0 1
 use-license=personal use only
 T 0 4700 8 10 0 0 0 0 1
-footprint=DIP-24.fp
+footprint=DIP24.fp
 T 0 4500 8 10 0 0 0 0 1
 net=GND:12
 T 0 4300 8 10 0 0 0 0 1
