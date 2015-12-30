@@ -6,6 +6,7 @@ L 2000 200 2000 4200 3 10 0 0 -1 -1
 L 200 200 2000 200 3 10 0 0 -1 -1
 L 200 4200 2000 4200 3 10 0 0 -1 -1
 L 200 1000 800 1000 3 10 0 0 -1 -1
+L 1400 1000 2000 1000 3 10 0 0 -1 -1
 T 1100 4000 9 8 1 0 0 4 1
 RAM
 P 0 4000 200 4000 1 0 0
@@ -320,21 +321,21 @@ pinseq=28
 }
 L 1960 360 2040 440 3 10 0 0 -1 -1
 L 1960 440 2040 360 3 10 0 0 -1 -1
-T 1100 4400 8 10 1 1 0 4 1
+T 1100 4400 8 8 1 1 0 4 1
 refdes=DD?
-T 1100 0 8 10 1 1 0 4 1
+T 1100 0 8 8 1 1 0 4 1
 value=GM76C256CLFW
-T 0 5700 8 10 0 0 0 0 1
+T 0 5700 8 8 0 0 0 0 1
 device=GM76C256C
-T 0 5500 8 10 0 0 0 0 1
+T 0 5500 8 8 0 0 0 0 1
 description=32Kx8 5.0V low power CMOS slow SRAM
-T 0 5300 8 10 0 0 0 0 1
+T 0 5300 8 8 0 0 0 0 1
 documentation=GM76C256C.pdf
-T 0 5100 8 10 0 0 0 0 1
+T 0 5100 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 4900 8 10 0 0 0 0 1
+T 0 4900 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 4700 8 10 0 0 0 0 1
+T 0 4700 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 4500 8 10 0 0 0 0 1
-footprint=SOP-28.fp
+T 0 4500 8 8 0 0 0 0 1
+footprint=SOP28.fp
