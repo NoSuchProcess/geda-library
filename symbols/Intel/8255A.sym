@@ -457,19 +457,19 @@ pinnumber=10
 T 2000 400 5 8 0 0 0 8 1
 pinseq=40
 }
-T 1100 5800 8 10 1 1 0 4 1
+T 1100 5800 8 8 1 1 0 4 1
 refdes=DD?
-T 1100 0 8 10 1 1 0 4 1
-value=I8255A
-T 0 6900 8 10 0 0 0 0 1
-device=I8255A
-T 0 6700 8 10 0 0 0 0 1
+T 1100 0 8 8 1 1 0 4 1
+value=8255A
+T 0 6900 8 8 0 0 0 0 1
+device=8255A
+T 0 6700 8 8 0 0 0 0 1
 description=Programmable peripheral interface
-T 0 6500 8 10 0 0 0 0 1
+T 0 6500 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 6300 8 10 0 0 0 0 1
+T 0 6300 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 6100 8 10 0 0 0 0 1
+T 0 6100 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 5900 8 10 0 0 0 0 1
+T 0 5900 8 8 0 0 0 0 1
 footprint=DIP40.fp
