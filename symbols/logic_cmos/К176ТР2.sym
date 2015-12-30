@@ -150,23 +150,23 @@ pinnumber=1
 T 1600 1100 5 8 0 0 0 8 1
 pinseq=13
 }
-T 900 2700 8 10 1 1 0 4 1
+T 900 2700 8 8 1 1 0 4 1
 refdes=DD?
-T 900 0 8 10 1 1 0 4 1
+T 900 0 8 8 1 1 0 4 1
 value=К176ТР2
-T 0 4200 8 10 0 0 0 0 1
+T 0 4200 8 8 0 0 0 0 1
 device=LOGIC_GATE
-T 0 4000 8 10 0 0 0 0 1
+T 0 4000 8 8 0 0 0 0 1
 description=?
-T 0 3800 8 10 0 0 0 0 1
+T 0 3800 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 3600 8 10 0 0 0 0 1
+T 0 3600 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 3400 8 10 0 0 0 0 1
+T 0 3400 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 3200 8 10 0 0 0 0 1
+T 0 3200 8 8 0 0 0 0 1
 footprint=DIP16.fp
-T 0 3000 8 10 0 0 0 0 1
+T 0 3000 8 8 0 0 0 0 1
 net=GND:8
-T 0 2800 8 10 0 0 0 0 1
+T 0 2800 8 8 0 0 0 0 1
 net=Vcc:16

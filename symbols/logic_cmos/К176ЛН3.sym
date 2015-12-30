@@ -192,23 +192,23 @@ T 1600 600 5 8 0 0 0 8 1
 pinseq=14
 }
 V 1600 600 40 6 10 0 0 -1 -1 0 -1 -1 -1 -1 -1
-T 900 2800 8 10 1 1 0 4 1
+T 900 2800 8 8 1 1 0 4 1
 refdes=DD?
-T 900 0 8 10 1 1 0 4 1
+T 900 0 8 8 1 1 0 4 1
 value=К176ЛН3
-T 0 4300 8 10 0 0 0 0 1
+T 0 4300 8 8 0 0 0 0 1
 device=LOGIC_GATE
-T 0 4100 8 10 0 0 0 0 1
+T 0 4100 8 8 0 0 0 0 1
 description=6НЕ (Z)
-T 0 3900 8 10 0 0 0 0 1
+T 0 3900 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 3700 8 10 0 0 0 0 1
+T 0 3700 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 3500 8 10 0 0 0 0 1
+T 0 3500 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 3300 8 10 0 0 0 0 1
+T 0 3300 8 8 0 0 0 0 1
 footprint=DIP16.fp
-T 0 3100 8 10 0 0 0 0 1
+T 0 3100 8 8 0 0 0 0 1
 net=GND:8
-T 0 2900 8 10 0 0 0 0 1
+T 0 2900 8 8 0 0 0 0 1
 net=Vcc:16
