@@ -103,21 +103,21 @@ pinseq=8
 }
 L 2360 360 2440 440 3 10 0 0 -1 -1
 L 2360 440 2440 360 3 10 0 0 -1 -1
-T 1300 1800 8 10 1 1 0 4 1
+T 1300 1800 8 8 1 1 0 4 1
 refdes=DD?
-T 1300 0 8 10 1 1 0 4 1
+T 1300 0 8 8 1 1 0 4 1
 value=DS3231
-T 0 3100 8 10 0 0 0 0 1
+T 0 3100 8 8 0 0 0 0 1
 device=DS3231
-T 0 2900 8 10 0 0 0 0 1
+T 0 2900 8 8 0 0 0 0 1
 description=Extremely accurate I2C-integrated RTC/TCXO/Crystal
-T 0 2700 8 10 0 0 0 0 1
+T 0 2700 8 8 0 0 0 0 1
 documentation=http://datasheets.maximintegrated.com/en/ds/DS3231.pdf
-T 0 2500 8 10 0 0 0 0 1
+T 0 2500 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 2300 8 10 0 0 0 0 1
+T 0 2300 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 2100 8 10 0 0 0 0 1
+T 0 2100 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 1900 8 10 0 0 0 0 1
-footprint=SO-16.fp
+T 0 1900 8 8 0 0 0 0 1
+footprint=SO16.fp

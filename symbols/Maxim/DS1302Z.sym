@@ -103,21 +103,21 @@ pinnumber=3
 T 2000 400 5 8 0 0 0 8 1
 pinseq=8
 }
-T 1100 1600 8 10 1 1 0 4 1
+T 1100 1600 8 8 1 1 0 4 1
 refdes=DD?
-T 1100 0 8 10 1 1 0 4 1
+T 1100 0 8 8 1 1 0 4 1
 value=DS1302Z
-T 0 2900 8 10 0 0 0 0 1
+T 0 2900 8 8 0 0 0 0 1
 device=DS1302
-T 0 2700 8 10 0 0 0 0 1
+T 0 2700 8 8 0 0 0 0 1
 description=Trickle-charge timekeeping chip
-T 0 2500 8 10 0 0 0 0 1
+T 0 2500 8 8 0 0 0 0 1
 documentation=http://datasheets.maximintegrated.com/en/ds/DS1302.pdf
-T 0 2300 8 10 0 0 0 0 1
+T 0 2300 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 2100 8 10 0 0 0 0 1
+T 0 2100 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 1900 8 10 0 0 0 0 1
+T 0 1900 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 1700 8 10 0 0 0 0 1
-footprint=SO-8.fp
+T 0 1700 8 8 0 0 0 0 1
+footprint=SO8.fp
