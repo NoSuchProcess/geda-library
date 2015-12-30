@@ -354,19 +354,19 @@ pinseq=31
 }
 L 1960 360 2040 440 3 10 0 0 -1 -1
 L 1960 440 2040 360 3 10 0 0 -1 -1
-T 1100 5000 8 10 1 1 0 4 1
+T 1100 5000 8 8 1 1 0 4 1
 refdes=DD?
-T 1100 0 8 10 1 1 0 4 1
+T 1100 0 8 8 1 1 0 4 1
 value=UT621024SC
-T 0 6100 8 10 0 0 0 0 1
+T 0 6100 8 8 0 0 0 0 1
 device=RAM
-T 0 5900 8 10 0 0 0 0 1
+T 0 5900 8 8 0 0 0 0 1
 description=128Kx8 bit low power CMOS SRAM
-T 0 5700 8 10 0 0 0 0 1
+T 0 5700 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 5500 8 10 0 0 0 0 1
+T 0 5500 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 5300 8 10 0 0 0 0 1
+T 0 5300 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 5100 8 10 0 0 0 0 1
-footprint=SOP-32.fp
+T 0 5100 8 8 0 0 0 0 1
+footprint=SOP32.fp
