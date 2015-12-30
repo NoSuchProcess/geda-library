@@ -95,7 +95,7 @@ P 0 600 200 600 1 0 0
 T 200 600 5 8 0 0 0 0 1
 pintype=pwr
 T 275 600 9 8 1 1 0 1 1
-pinlabel=VDD
+pinlabel=VCC
 T 150 645 5 8 1 1 0 6 1
 pinnumber=9
 T 200 600 5 8 0 0 0 2 1
@@ -237,21 +237,21 @@ pinnumber=3
 T 2000 400 5 8 0 0 0 8 1
 pinseq=20
 }
-T 1100 3000 8 10 1 1 0 4 1
+T 1100 3000 8 8 1 1 0 4 1
 refdes=DD?
-T 1100 0 8 10 1 1 0 4 1
+T 1100 0 8 8 1 1 0 4 1
 value=STM8S103F2
-T 0 4300 8 10 0 0 0 0 1
+T 0 4300 8 8 0 0 0 0 1
 device=STM8S103F2
-T 0 4100 8 10 0 0 0 0 1
+T 0 4100 8 8 0 0 0 0 1
 description=STM8S 8-bit MCU, up to 8 kbytes flash, data EEPROM, 10-bit ADC, 3 timers, UART, SPI, I²C
-T 0 3900 8 10 0 0 0 0 1
+T 0 3900 8 8 0 0 0 0 1
 documentation=http://www.st.com/web/en/resource/technical/document/datasheet/CD00226640.pdf
-T 0 3700 8 10 0 0 0 0 1
+T 0 3700 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 3500 8 10 0 0 0 0 1
+T 0 3500 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 3300 8 10 0 0 0 0 1
+T 0 3300 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 3100 8 10 0 0 0 0 1
-footprint=SO-20.fp
+T 0 3100 8 8 0 0 0 0 1
+footprint=SO20.fp
