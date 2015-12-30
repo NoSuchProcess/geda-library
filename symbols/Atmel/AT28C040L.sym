@@ -365,21 +365,21 @@ pinseq=32
 }
 L 1960 360 2040 440 3 10 0 0 -1 -1
 L 1960 440 2040 360 3 10 0 0 -1 -1
-T 1100 5200 8 10 1 1 0 4 1
+T 1100 5200 8 8 1 1 0 4 1
 refdes=DD?
-T 1100 0 8 10 1 1 0 4 1
+T 1100 0 8 8 1 1 0 4 1
 value=AT28C040
-T 0 6500 8 10 0 0 0 0 1
+T 0 6500 8 8 0 0 0 0 1
 device=AT28C040
-T 0 6300 8 10 0 0 0 0 1
+T 0 6300 8 8 0 0 0 0 1
 description=4-megabit (512k x 8) paged parallel EEPROM
-T 0 6100 8 10 0 0 0 0 1
+T 0 6100 8 8 0 0 0 0 1
 documentation=http://www.atmel.com/ru/ru/images/doc0542.pdf
-T 0 5900 8 10 0 0 0 0 1
+T 0 5900 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 5700 8 10 0 0 0 0 1
+T 0 5700 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 5500 8 10 0 0 0 0 1
+T 0 5500 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 5300 8 10 0 0 0 0 1
+T 0 5300 8 8 0 0 0 0 1
 footprint=PLCC44.fp

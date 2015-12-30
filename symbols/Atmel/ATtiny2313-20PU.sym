@@ -239,21 +239,21 @@ pinseq=20
 }
 L 4360 360 4440 440 3 10 0 0 -1 -1
 L 4360 440 4440 360 3 10 0 0 -1 -1
-T 2300 3200 8 10 1 1 0 4 1
+T 2300 3200 8 8 1 1 0 4 1
 refdes=DD?
-T 2300 0 8 10 1 1 0 4 1
+T 2300 0 8 8 1 1 0 4 1
 value=ATtiny2313-20PU
-T 0 4500 8 10 0 0 0 0 1
+T 0 4500 8 8 0 0 0 0 1
 device=ATTINY2313
-T 0 4300 8 10 0 0 0 0 1
+T 0 4300 8 8 0 0 0 0 1
 description=8-bit AVR microcontroller with 2k bytes in-system programmable flash
-T 0 4100 8 10 0 0 0 0 1
+T 0 4100 8 8 0 0 0 0 1
 documentation=http://www.atmel.com/images/doc2543.pdf
-T 0 3900 8 10 0 0 0 0 1
+T 0 3900 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 3700 8 10 0 0 0 0 1
+T 0 3700 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 3500 8 10 0 0 0 0 1
+T 0 3500 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 3300 8 10 0 0 0 0 1
+T 0 3300 8 8 0 0 0 0 1
 footprint=DIP20.fp
