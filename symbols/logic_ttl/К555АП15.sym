@@ -232,23 +232,23 @@ T 1600 1000 5 8 0 0 0 8 1
 pinseq=18
 }
 V 1600 1000 40 6 10 0 0 -1 -1 0 -1 -1 -1 -1 -1
-T 900 3000 8 10 1 1 0 4 1
+T 900 3000 8 8 1 1 0 4 1
 refdes=DD?
-T 900 0 8 10 1 1 0 4 1
+T 900 0 8 8 1 1 0 4 1
 value=К555АП15
-T 0 4500 8 10 0 0 0 0 1
+T 0 4500 8 8 0 0 0 0 1
 device=LOGIC_GATE
-T 0 4300 8 10 0 0 0 0 1
+T 0 4300 8 8 0 0 0 0 1
 description=8 инвертирующих буферных элементов (Z)
-T 0 4100 8 10 0 0 0 0 1
+T 0 4100 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 3900 8 10 0 0 0 0 1
+T 0 3900 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 3700 8 10 0 0 0 0 1
+T 0 3700 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 3500 8 10 0 0 0 0 1
+T 0 3500 8 8 0 0 0 0 1
 footprint=DIP20.fp
-T 0 3300 8 10 0 0 0 0 1
+T 0 3300 8 8 0 0 0 0 1
 net=GND:10
-T 0 3100 8 10 0 0 0 0 1
+T 0 3100 8 8 0 0 0 0 1
 net=VCC:20
