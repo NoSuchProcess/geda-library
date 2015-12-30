@@ -218,21 +218,21 @@ pinnumber=17
 T 2000 400 5 8 0 0 0 8 1
 pinseq=18
 }
-T 1100 2800 8 10 1 1 0 4 1
+T 1100 2800 8 8 1 1 0 4 1
 refdes=DD?
-T 1100 0 8 10 1 1 0 4 1
+T 1100 0 8 8 1 1 0 4 1
 value=TPIC6B595DW
-T 0 4100 8 10 0 0 0 0 1
+T 0 4100 8 8 0 0 0 0 1
 device=TPIC6B595
-T 0 3900 8 10 0 0 0 0 1
+T 0 3900 8 8 0 0 0 0 1
 description=Power logic 8-bit shift register
-T 0 3700 8 10 0 0 0 0 1
+T 0 3700 8 8 0 0 0 0 1
 documentation=http://www.ti.com/lit/ds/symlink/tpic6b595.pdf
-T 0 3500 8 10 0 0 0 0 1
+T 0 3500 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 3300 8 10 0 0 0 0 1
+T 0 3300 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 3100 8 10 0 0 0 0 1
+T 0 3100 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 2900 8 10 0 0 0 0 1
-footprint=SOW-20.fp
+T 0 2900 8 8 0 0 0 0 1
+footprint=SOW20.fp
