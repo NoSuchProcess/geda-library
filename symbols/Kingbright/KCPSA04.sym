@@ -10,7 +10,7 @@ L 1120 300 1120 500 3 10 1 0 -1 -1
 L 1120 400 1280 300 3 10 1 0 -1 -1
 L 1120 400 1280 500 3 10 1 0 -1 -1
 V 1450 1450 50 3 10 1 0 -1 -1 1 -1 -1 -1 -1 -1
-T 1200 3200 9 10 1 0 0 4 1
+T 1200 3200 9 8 1 0 0 4 1
 DPY
 H 3 0 0 0 -1 -1 1 -1 -1 -1 -1 -1 79
 M 900,1450
@@ -268,21 +268,21 @@ pinnumber=14
 T 1800 3200 5 8 0 0 0 8 1
 pinseq=16
 }
-T 1000 3600 8 10 1 1 0 4 1
+T 1000 3600 8 8 1 1 0 4 1
 refdes=HG?
-T 1000 0 8 10 1 1 0 4 1
+T 1000 0 8 8 1 1 0 4 1
 value=KCPSA04
-T 0 4900 8 10 0 0 0 0 1
+T 0 4900 8 8 0 0 0 0 1
 device=DISPLAY
-T 0 4700 8 10 0 0 0 0 1
+T 0 4700 8 8 0 0 0 0 1
 description=14-segment LED alphanumeric display
-T 0 4500 8 10 0 0 0 0 1
+T 0 4500 8 8 0 0 0 0 1
 documentation=http://www.kingbright.com/attachments/file/download/000/00/00/KB04-SMD%20DISPLAY.pdf
-T 0 4300 8 10 0 0 0 0 1
+T 0 4300 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 4100 8 10 0 0 0 0 1
+T 0 4100 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 3900 8 10 0 0 0 0 1
+T 0 3900 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 3700 8 10 0 0 0 0 1
+T 0 3700 8 8 0 0 0 0 1
 footprint=KCPSX04.fp

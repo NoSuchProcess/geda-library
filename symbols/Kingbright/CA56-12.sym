@@ -14,7 +14,7 @@ V 1600 760 60 3 10 1 0 -1 -1 1 -1 -1 -1 -1 -1
 V 2500 760 60 3 10 1 0 -1 -1 1 -1 -1 -1 -1 -1
 V 3400 760 60 3 10 1 0 -1 -1 1 -1 -1 -1 -1 -1
 V 4300 760 60 3 10 1 0 -1 -1 1 -1 -1 -1 -1 -1
-T 2600 1800 9 10 1 0 0 4 1
+T 2600 1800 9 8 1 0 0 4 1
 DPY
 H 3 0 0 0 -1 -1 1 -1 -1 -1 -1 -1 50
 M 1398,1354
@@ -352,21 +352,21 @@ pinnumber=6
 T 5000 1200 5 8 0 0 0 8 1
 pinseq=12
 }
-T 2600 2200 8 10 1 1 0 4 1
+T 2600 2200 8 8 1 1 0 4 1
 refdes=HG?
-T 2600 0 8 10 1 1 0 4 1
+T 2600 0 8 8 1 1 0 4 1
 value=CA56-12
-T 0 3500 8 10 0 0 0 0 1
+T 0 3500 8 8 0 0 0 0 1
 device=DISPLAY
-T 0 3300 8 10 0 0 0 0 1
+T 0 3300 8 8 0 0 0 0 1
 description=7-segment LED numeric display
-T 0 3100 8 10 0 0 0 0 1
+T 0 3100 8 8 0 0 0 0 1
 documentation=CA56-12GWA.pdf
-T 0 2900 8 10 0 0 0 0 1
+T 0 2900 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 2700 8 10 0 0 0 0 1
+T 0 2700 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 2500 8 10 0 0 0 0 1
+T 0 2500 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 2300 8 10 0 0 0 0 1
+T 0 2300 8 8 0 0 0 0 1
 footprint=CX56-12.fp
