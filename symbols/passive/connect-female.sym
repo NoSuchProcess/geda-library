@@ -1,0 +1,28 @@
+v 20150930 2
+L -60 260 0 200 3 10 1 0 -1 -1
+L -60 140 0 200 3 10 1 0 -1 -1
+P 200 200 0 200 1 0 0
+{
+T 0 200 5 8 0 0 0 6 1
+pintype=in
+T -75 200 9 8 0 1 0 7 1
+pinlabel=1
+T 50 245 5 8 0 1 0 0 1
+pinnumber=1
+T 0 200 5 8 0 0 0 8 1
+pinseq=1
+}
+T 0 400 8 8 1 1 0 4 1
+refdes=XS?
+T 0 1500 8 8 0 0 0 0 1
+device=CONNECTOR
+T 0 1300 8 8 0 0 0 0 1
+description=Female connector
+T 0 1100 8 8 0 0 0 0 1
+author=Sergey Stepanov <no.such.process@gmail.com>
+T 0 900 8 8 0 0 0 0 1
+dist-license=CC BY-NC-SA 4.0
+T 0 700 8 8 0 0 0 0 1
+use-license=personal use only
+T 0 500 8 8 0 0 0 0 1
+footprint=?
