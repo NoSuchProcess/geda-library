@@ -1,5 +1,5 @@
 v 20140308 2
-L 220 480 220 120 3 10 1 0 -1 -1
+L 220 120 220 480 3 10 1 0 -1 -1
 L 220 396 400 500 3 10 1 0 -1 -1
 L 220 204 400 100 3 10 1 0 -1 -1
 V 280 300 240 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
@@ -41,21 +41,21 @@ pinnumber=E
 T 400 100 5 8 0 0 0 2 1
 pinseq=3
 }
-T 900 400 8 10 1 1 0 4 1
+T 300 900 8 8 1 1 0 4 1
 refdes=VT?
-T 900 200 8 10 1 1 0 4 1
+T 300 700 8 8 1 1 0 4 1
 value=2N4401
-T 0 1900 8 10 0 0 0 0 1
+T 0 2200 8 8 0 0 0 0 1
 device=NPN-TRANSISTOR
-T 0 1700 8 10 0 0 0 0 1
+T 0 2000 8 8 0 0 0 0 1
 description=NPN switching transistor
-T 0 1500 8 10 0 0 0 0 1
+T 0 1800 8 8 0 0 0 0 1
 documentation=http://www.nxp.com/documents/data_sheet/2N4401.pdf
-T 0 1300 8 10 0 0 0 0 1
+T 0 1600 8 8 0 0 0 0 1
 author=Sergey Stepanov <no.such.process@gmail.com>
-T 0 1100 8 10 0 0 0 0 1
+T 0 1400 8 8 0 0 0 0 1
 dist-license=CC BY-NC-SA 4.0
-T 0 900 8 10 0 0 0 0 1
+T 0 1200 8 8 0 0 0 0 1
 use-license=personal use only
-T 0 700 8 10 0 0 0 0 1
+T 0 1000 8 8 0 0 0 0 1
 footprint=TO-92.fp
